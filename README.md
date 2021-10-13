@@ -1,12 +1,11 @@
 # MOVING-CAR-ANIMATION
-A basic project using html, css and javascript
-Animation of a car moving on the track.
-
-#requirement
-Add animation for the background 
-Make it responsive 
+A basic project displaying animation of a car moving on the track.
 
 Tech stack:
-Html
-CSS
-JavaScript
+  - Html
+  - CSS
+  - JavaScript
+
+Requirements;
+  - Add animation for the background 
+  - Make it responsive 
