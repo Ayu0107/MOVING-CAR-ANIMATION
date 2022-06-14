@@ -1,4 +1,5 @@
-# MOVING-CAR-ANIMATION
+# Moving-Car-Animation
+
 A basic project displaying animation of a car moving on the track.
 
 Tech stack:
