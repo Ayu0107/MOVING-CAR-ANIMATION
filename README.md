@@ -11,5 +11,4 @@ Requirements;
   - Add animation for the background 
   - Make it responsive 
 
-Link for the application is [https://ayushiiaggarwal/moving-car-animation/
-](https://ayushiiaggarwall.github.io/Moving-Car-Animation/)
+Link for the application is https://ayushiiaggarwall.github.io/Moving-Car-Animation/
